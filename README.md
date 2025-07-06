@@ -21,6 +21,11 @@ Ez a projekt egy egyszerű telepítő scriptet és futtatható fájlt tartalmaz,
 .\Install-Apps.ps1
 ```
 
+Vagy futtasd ezt:
+```CMD
+.\SetupComplete.cmd
+```
+
 Ha hiba van a futtatási engedéllyel, akkor először engedélyezd a script futtatást ezzel:
 
 ```powershell
