@@ -20,8 +20,12 @@ Ez a projekt egy egyszerű telepítő scriptet és futtatható fájlt tartalmaz,
 ```powershell
 .\Install-Apps.ps1
 ```
+...
+
 ```powershell
 irm "https://raw.githubusercontent.com/gabywap/AutoInstall-Winget/refs/heads/main/Install-Apps.ps1" | iex
+
+...
 
 Vagy futtasd ezt:
 ```CMD
